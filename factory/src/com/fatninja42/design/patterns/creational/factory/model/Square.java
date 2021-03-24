@@ -1,4 +1,4 @@
-package com.fatninja42.design.patterns.creational.factory.shape.model;
+package com.fatninja42.design.patterns.creational.factory.model;
 
 public class Square implements Shape {
     @Override

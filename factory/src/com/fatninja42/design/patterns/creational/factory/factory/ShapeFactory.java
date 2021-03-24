@@ -1,9 +1,9 @@
-package com.fatninja42.design.patterns.creational.factory.shape.factory;
+package com.fatninja42.design.patterns.creational.factory.factory;
 
-import com.fatninja42.design.patterns.creational.factory.shape.model.Shape;
-import com.fatninja42.design.patterns.creational.factory.shape.model.Circle;
-import com.fatninja42.design.patterns.creational.factory.shape.model.Rectangle;
-import com.fatninja42.design.patterns.creational.factory.shape.model.Square;
+import com.fatninja42.design.patterns.creational.factory.model.Shape;
+import com.fatninja42.design.patterns.creational.factory.model.Circle;
+import com.fatninja42.design.patterns.creational.factory.model.Rectangle;
+import com.fatninja42.design.patterns.creational.factory.model.Square;
 
 public class ShapeFactory {
 
